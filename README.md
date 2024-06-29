@@ -20,12 +20,12 @@ To set up the Ecommerce Chatbot locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-   git clone https://github.com/your-username/ecommerce-chatbot.git
+   git clone https://github.com/your-username/E-commercebot.git
 ```
 
 2. Navigate to the project directory:
 ```
-   cd ecommerce-chatbot
+   cd E-commercebot
 ```
 
 3. Install the required Python packages using pip:
